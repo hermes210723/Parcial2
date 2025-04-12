@@ -2,6 +2,9 @@
 
 public class Prestamo
 {
+    /// <summary>
+    /// solo para ver si se guardan los cambios en GitHub
+    /// </summary>
     public int Id { get; set; }
     public DateTime FechaPrestamo { get; set; }
     public DateTime FechaDevolucion { get; set; }
